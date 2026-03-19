@@ -29,7 +29,8 @@ The Supply Chain Tracker is a decentralized application built using Soroban smar
 > Add your deployed contract link here (e.g., Stellar testnet explorer link)
 
 Example:
-https://stellar.expert/explorer/testnet/contract/YOUR_CONTRACT_ID
+https://stellar.expert/explorer/testnet/tx/a4f4e2570a697c6e463b5ae4b2d933f86fda367f1b2f7213ec382d969ffa9772
+https://lab.stellar.org/r/testnet/contract/CDJVMAX34YRCQ5JFC6SIOQOVSUY6XWEFYJOLF3SBCKU7CMI3IAP6HPWN
 
 ## 🛠️ Tech Stack
 - Rust (Soroban SDK)
