@@ -1,5 +1,7 @@
 # SupplyChain
 # 🏭 Supply Chain Tracker (Soroban Smart Contract)
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/50c58ef0-a5d7-4de3-8230-a389ae20c11c" />
+
 
 ## 📌 Project Description
 The Supply Chain Tracker is a decentralized application built using Soroban smart contracts on the Stellar blockchain. It allows tracking of products as they move through different stages of the supply chain in a transparent and tamper-proof manner.
